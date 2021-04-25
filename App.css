@@ -1,0 +1,47 @@
+
+body{
+    margin: 100;
+	padding: 20;
+    text-align:center;
+    text-decoration-color: blanchedalmond;
+    background-image: url("background.jpg")  ;
+	background-repeat: no-repeat;
+	background-size: 150%;
+    color:black;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px; 
+	font-weight: normal;
+	
+}
+
+button{
+	background-color: green;
+	color: white;
+	border-width: 1px;
+	border-color: black;
+
+}
+button:hover {
+	background-color: red;
+}
+
+.name {
+
+     width: 100%;
+	 padding: 12px 20px;
+	 margin: 40px 20;
+	 box-sizing: border-box;
+	 text-align:center;
+     text-emphasis-position: left;
+}
+
+.email
+{
+
+	width: 95%;
+	padding: 12px 30px;
+	margin: 40px 30px;
+    box-sizing: border-box;
+	text-align:center;
+	text-emphasis-position: left; 
+}
